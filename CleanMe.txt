@@ -1,3 +1,4 @@
 Welcome to CleanMe
 Make 1st change in branch feature_clean
 Make 2nd change in branch feature_clean in Github to test Merge conflict
+Now that a merge origin/feature_clean into feature_clean (VSC) in completed, make 3rd change in branch feature_clean in Github to test Merge conflict from Push in VSC
