@@ -1,2 +1,4 @@
 Welcome to PaintWall.txt
+Make 1st change to PaintWall.txt in branch feature_paint_wall
+Make 2nd change to PaintWall.txt in branch feature_paint_wall
 Make 3rd change to PaintWall.txt in branch feature_paint to provoke merge conflict
