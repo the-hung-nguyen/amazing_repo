@@ -1,3 +1,4 @@
 Welcome to PaintMe
 Make change in branch feature_paint
 Make 2nd change in branch feature_paint
+Make 3rd change in branch feature_paint in VSC
