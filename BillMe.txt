@@ -1,1 +1,2 @@
 Welcome to BillMe
+Make 1st update in branch feature_bill on GitHub
