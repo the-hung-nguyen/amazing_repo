@@ -1,0 +1,4 @@
+Welcome to BillMe
+Make 1st update in branch feature_bill on GitHub
+Make 2nd update in branch feature_bill on VSC-HQ
+Make 2nd change in branch feature_bill on VSC. This will provoke merge conflict.
