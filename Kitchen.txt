@@ -1,0 +1,3 @@
+Kitchen is created.
+2. Add counter.
+3. Add stove.
