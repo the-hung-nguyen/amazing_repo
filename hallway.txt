@@ -1,1 +1,2 @@
 1. Create hallway.
+2. Add painting.
