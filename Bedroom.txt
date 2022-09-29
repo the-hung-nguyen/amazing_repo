@@ -1,2 +1,3 @@
 1. Create bedroom.
 2. Add lamp.
+3. Install door between hallway and bedroom.
