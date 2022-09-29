@@ -1,1 +1,2 @@
 1. Add hallway.txt
+2. Add painting.
